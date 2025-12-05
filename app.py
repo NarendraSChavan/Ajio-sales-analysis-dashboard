@@ -643,6 +643,7 @@ with col_ins3:
 # -----------------------------------------
 st.markdown("""
 <div class="dashboard-footer">
-    <p>📊 AJIO Sales Analytics Dashboard | Built with Streamlit & Plotly | © 2024</p>
+    <p>📊 AJIO Sales Analytics Dashboard | Built with Streamlit & Plotly | © 2025</p>
 </div>
 """, unsafe_allow_html=True)
+
